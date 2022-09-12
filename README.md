@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tedgershon
-- 👀 I’m interested in tennis, data analysis, and math
-- 🌱 I’m currently learning about app development and statistical analysis
-- 💞️ I’m looking to collaborate on creating an app that analyses high school tennis rosters to create a lineup with a high probability of success by UTR rating
+- 👀 I’m interested in data science, machine learning, and statistics
+- 🌱 I’m currently learning about python data analytics, C++, and machine learning with TensorFlow
+- 💞️ I’m looking to collaborate on creating an app that predicts tennis roster success using a universal algorithm called UTR (myutr.com)
 - 📫 How to reach me: tedgershon@gmail.com
 
 <!---
