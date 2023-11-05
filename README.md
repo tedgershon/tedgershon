@@ -1,9 +1,9 @@
 ## Hey, I'm Ted 👋 ##
-#### About Me ####
-- 🎓 CMU Information Systems '27
+### About Me ###
+- 🎓 Current Freshman in Information Systems at CMU
 - 👀 Interested in data science, machine learning, and statistics
 - 📫 Feel free to contact me over [email](mailto:tgershon@andrew.cmu.edu) or add me on [LinkedIn](https://www.linkedin.com/in/ted-gershon-112a84292/)!
-
+  
 <!---
 tedgershon/tedgershon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
