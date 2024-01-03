@@ -1,4 +1,4 @@
-## Hey, I'm Ted 👋 ##
+## Hi, I'm Ted 👋 ##
 ### About Me ###
 - 🎓 Current Freshman in Information Systems at CMU
 - 👀 Interested in data science, machine learning, and statistics
