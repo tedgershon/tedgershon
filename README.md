@@ -9,5 +9,7 @@ tedgershon/tedgershon is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 - 🌱 Learning about data analytics with python libraries, C, and machine learning with TensorFlow
 - 💞️ I’m looking to collaborate on creating an app that predicts tennis roster success using a universal algorithm called UTR (myutr.com)
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax, https://github.com/gramliu
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- ReadMe Stats: https://github.com/anuraghazra/github-readme-stats
 --->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tedgershon&layout=compact)
