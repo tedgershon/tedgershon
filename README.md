@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on creating an app that predicts tennis roster success using a universal algorithm called UTR (myutr.com)
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - ReadMe Stats: https://github.com/anuraghazra/github-readme-stats
---->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tedgershon&layout=compact)
+--->
