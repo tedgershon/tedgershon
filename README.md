@@ -1,7 +1,7 @@
 ## Hi, I'm Ted 👋 ##
 ### About Me ###
 - 🎓 Current Junior in Information Systems at CMU
-- 👀 Interested in data science, machine learning, and statistics
+- 👀 Interested in data science, ML, and data engineering
 - 📫 Feel free to contact me over [email](mailto:tgershon@cmu.edu) or add me on [LinkedIn](https://www.linkedin.com/in/tedgershon/)
   
 <!---
