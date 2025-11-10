@@ -1,9 +1,16 @@
 ## Hi, I'm Ted 👋 ##
 ### About Me ###
-- 🎓 Current Junior in Information Systems at CMU
-- 👀 Interested in data science, ML, and data engineering
+- 🎓 Current Junior in Information Systems at Carnegie Mellon University
+- 👀 Interested in full-stack development, data science, and data engineering
 - 📫 Feel free to contact me over [email](mailto:tgershon@cmu.edu) or add me on [LinkedIn](https://www.linkedin.com/in/tedgershon/)
-  
+
+<!---
+* 🎓 Information Systems Student at Carnegie Mellon University.
+* 🚀 Data Scientist & Engineer building scalable solutions with **Python, Spark, and dbt**.
+* 💻 Full-Stack Developer with experience in **React, Node.js, TypeScript, and Django**.
+* 🤖 Exploring **agentic AI**, MLOps, and distributed systems.
+* 📫 Feel free to contact me via [email](mailto:tgershon@cmu.edu) or [LinkedIn](https://www.linkedin.com/in/tedgershon/).
+--->
 <!---
 tedgershon/tedgershon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
