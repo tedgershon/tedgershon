@@ -2,9 +2,6 @@
 
 Junior at Carnegie Mellon studying Information Systems (Software Engineering, AI).
 
-Currently building **BananaGains**, a prediction market platform for the CMU community.
-Incoming SWE Intern at **Microsoft** (Azure Data, Summer 2026).
-
 ## What I work with
 Python · SQL · TypeScript · Django · Next.js · PostgreSQL · Redis · Databricks · dbt
 
